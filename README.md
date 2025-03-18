@@ -6,7 +6,6 @@
 Bienvenido a mi perfil de GitHub. Soy Desarrollador web junior y Estudiante de DAW, me encanta colaborar en proyectos interesantes y seguir haciendo nuevos retos. Aquí podrás encontrar mis proyectos, colaboraciones y más información sobre lo que estoy trabajando.
 
 ## Visita mis redes ...
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carles-meca-torreño-9273bb280)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CPC2-2) 
 
 ## Mis proyectos mas importantes
