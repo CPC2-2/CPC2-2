@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**CPC2-2/CPC2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-decoration:none;">
+<h1>¡Hola, soy CPC2-2! 👋</h1>
+<h2>Estudiante de DAW</h2>
+</div>
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy Desarrollador web junior y Estudiante de DAW, me encanta colaborar en proyectos interesantes y seguir haciendo nuevos retos. Aquí podrás encontrar mis proyectos, colaboraciones y más información sobre lo que estoy trabajando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visita mis redes ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Carles%20Meca%20Torreño)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CPC2-2) 
+
+## Mis proyectos mas importantes
+
+## ¡No dudes en escribirme! 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmt.deve@gmail.com)
+
