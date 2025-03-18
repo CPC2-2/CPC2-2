@@ -1,6 +1,6 @@
 
 <div style="text-decoration:none;">
-<h1>¡Hola, soy CPC2-2! 👋</h1>
+<h1>¡Hola soy CPC2-2! 👋</h1>
 <h2>Estudiante de DAW</h2>
 </div>
 
