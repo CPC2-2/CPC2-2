@@ -5,7 +5,7 @@
 
 Bienvenido a mi perfil de GitHub. 
 Soy Desarrollador web con muchas ganas de seguir aprendiendo y creciendo en el mundo del desarrollo.
-Durante mi carrera profesional he podido conseguir experiencia , para diseñar diferentes herramientas internas. Más adelante, trabajé en Nivelz, donde pude profundizar en el diseño de interfaces y la experiencia de usuario.
+Durante mi carrera profesional he podido conseguir experiencia.
 
 Me apasiona el frontend y el diseño web, y actualmente sigo creando proyectos por mi cuenta para seguir mejorando.
 Soy autodidacta, curioso y creativo, siempre con ganas de aprender algo nuevo y dar lo mejor de mí en cada proyecto. 🚀
