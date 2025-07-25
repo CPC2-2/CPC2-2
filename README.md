@@ -1,11 +1,12 @@
-<p align="center">
-   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/CARLES_MECA_banner.png?raw=true" alt="Banner Carles Meca" />
-</p>
 
 <div style="text-decoration: none;">
   <h1>¡Hola! Soy Carles Meca - CPC2-2 👋</h1>
   <h2>Desarrollador Web & Frontend Designer</h2>
 </div>
+
+<p align="center">
+   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/CARLES_MECA_banner.png?raw=true" alt="Banner Carles Meca" />
+</p>
 
 ¡Bienvenido/a a mi perfil de GitHub!  
 Soy desarrollador web con una gran motivación por seguir aprendiendo y creciendo en el mundo del desarrollo.
