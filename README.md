@@ -37,9 +37,7 @@ Me considero **autodidacta, curioso y creativo** y sobre todo con ganas de apren
 
 ## 🚀 Proyectos Destacados
 
-*Aquí puedes añadir enlaces o descripciones breves de tus mejores proyectos.*
-
-### [CeliFind](https://github.com/jessicapb/CeliFind/tree/carles)  
+### 🌿 [CeliFind](https://github.com/jessicapb/CeliFind/tree/carles)  
 > Aplicación colaborativa desarrollada junto a una compañera para facilitar a personas celíacas el acceso a más productos, información y restaurantes sin gluten.  
 > Este proyecto busca mejorar la calidad de vida de la comunidad celíaca con recursos útiles y actualizados.
 ---
