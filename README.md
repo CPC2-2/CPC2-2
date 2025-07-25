@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/banner_cm.png?raw=true" alt="Banner Carles Meca" />
+   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/CARLES_MECA_banner.png?raw=true" alt="Banner Carles Meca" />
 </p>
 
 <div style="text-decoration: none;">
