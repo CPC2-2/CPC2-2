@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL_DE_LA_IMAGEN" alt="Carles Meca Banner" />
+</p>
+
 <div style="text-decoration: none;">
   <h1>¡Hola! Soy Carles Meca - CPC2-2 👋</h1>
   <h2>Desarrollador Web & Frontend Designer</h2>
@@ -39,5 +43,4 @@ Me considero **autodidacta, curioso y creativo** y sobre todo con ganas de apren
 ## 📬 ¡No dudes en escribirme!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmt.deve@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carles-meca-torreño-9273bb280)
 
