@@ -1,10 +1,10 @@
 <div style="text-decoration: none;">
   <h1>¡Hola! Soy Carles Meca - CPC2-2 👋</h1>
-  <h2>Desarrollador Web & Diseñador Frontend</h2>
+  <h2>Desarrollador Web & Frontend Designer</h2>
 </div>
 
 ¡Bienvenido/a a mi perfil de GitHub!  
-Soy desarrollador web y Frontend Designer con una gran motivación por seguir aprendiendo y creciendo en el mundo del desarrollo.
+Soy desarrollador web con una gran motivación por seguir aprendiendo y creciendo en el mundo del desarrollo.
 
 Durante mi trayectoria he adquirido experiencia trabajando en proyectos de diferentes tamaños, tanto personales como para empresas. Me apasiona el **frontend** y el **diseño web**, y actualmente sigo desarrollando proyectos por mi cuenta para mejorar mis habilidades día a día.
 
