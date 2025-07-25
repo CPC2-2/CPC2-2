@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_LA_IMAGEN" alt="Carles Meca Banner" />
+   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/CARLES%20MECA%20(1).png?raw=true" alt="Banner Carles Meca" />
 </p>
 
 <div style="text-decoration: none;">
