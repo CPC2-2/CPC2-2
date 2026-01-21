@@ -13,7 +13,7 @@ Soy desarrollador web con una gran motivación por seguir aprendiendo y creciend
 
 Durante mi trayectoria he adquirido experiencia trabajando en proyectos de diferentes tamaños, tanto personales como para empresas. Me apasiona el **frontend** y el **diseño web** aunque tambien me gusta la parte de backend, y actualmente sigo desarrollando proyectos por mi cuenta para mejorar mis habilidades día a día.
 
-Me considero **autodidacta, curioso y creativo** y sobre todo con ganas de aprender algo nuevo.
+Si buscas trabajar o colaborar conmigo, no dudes en escribirme.
 
 <h3>🛠️ Tecnologías con las que trabajo:</h3>
 <p>
