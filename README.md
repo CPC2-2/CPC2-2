@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/BANNER_LINKEDIN.png?raw=true" alt="Banner Carles Meca" />
+   <img src="https://github.com/CPC2-2/CPC2-2/blob/main/BANNER LINKEDIN.png?raw=true" alt="Banner Carles Meca" />
 </p>
 
 ¡Bienvenido/a a mi perfil de GitHub!  
